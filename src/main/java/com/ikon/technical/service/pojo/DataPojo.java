@@ -1,7 +1,6 @@
 package com.ikon.technical.service.pojo;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.ikon.technical.common.CommonPojo;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class DataPojo {
